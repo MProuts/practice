@@ -1,15 +1,35 @@
-Change to the end of the line
-Append at eol
-Insert at start of line
-Delete character under the cursor and enter insert mode
+Par 5
+$ Add "dog" to the end of the line
+$ Add "dog" to the end of the line dog
+
+Par 5
+Insert "dog" at start of line $
+dog Insert "dog" at start of line $
+
+Par 1
+Delete "$" and insert mode
+
+Par 1
 Delete line and enter insert mode
-“var foo = "method("+argument1+","+argument2+")";”
-Insert spaces before and after "+" characters.  Par 12
+
+Par 12
+$ “var foo = "method("+argument1+","+argument2+")";”
+$ “var foo = "method(" + argument1 + "," + argument2 + ")";”
+
 Move forward and backward between $ and $
-Move forward and backward  up to $ and $
+
+Move forward and backward up to $ and $
+
 Move forward, repeat, backward, repeat between $ and $ and $
-Scan forward and backward for pattern pattern pattern pattern
-Search for the word under the cursor change the second and third occurrences to "beef"
-Search for the word under the cursor change the second and third occurrences to "beef"
-Search for the word under the cursor change the second and third occurrences to "beef"
-Delete all words from the end of this line.  Par 12
+
+$ Scan forward and backward for pattern pattern pattern pattern
+
+Scan forward and backward for pattern pattern pattern pattern $
+
+Par 10
+Search for $"something" word under the cursor change the second and third occurrences to "beef" something mmm something
+Search for $"something" word under the cursor change the second and third occurrences to "beef" beef mmm beef
+Search for $"something" word under the cursor change the second and third occurrences to "beef" beef mmm beef
+
+Par 13
+Delete all words from the end of this line.$
