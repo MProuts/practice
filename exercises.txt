@@ -1,3 +1,8 @@
+Par 7
+$Append a semicolon to each line
+Append a semicolon to each line
+Append a semicolon to each line
+
 Par 5
 $ Add "dog" to the end of the line
 $ Add "dog" to the end of the line dog
