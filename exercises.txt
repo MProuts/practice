@@ -1,0 +1,15 @@
+Change to the end of the line
+Append at eol
+Insert at start of line
+Delete character under the cursor and enter insert mode
+Delete line and enter insert mode
+“var foo = "method("+argument1+","+argument2+")";”
+Insert spaces before and after "+" characters.  Par 12
+Move forward and backward between $ and $
+Move forward and backward  up to $ and $
+Move forward, repeat, backward, repeat between $ and $ and $
+Scan forward and backward for pattern pattern pattern pattern
+Search for the word under the cursor change the second and third occurrences to "beef"
+Search for the word under the cursor change the second and third occurrences to "beef"
+Search for the word under the cursor change the second and third occurrences to "beef"
+Delete all words from the end of this line.  Par 12
