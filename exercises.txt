@@ -2,39 +2,61 @@ Par 7
 $Append a semicolon to each line
 Append a semicolon to each line
 Append a semicolon to each line
+Append a semicolon to each line
 
-Par 5
-$ Add "dog" to the end of the line
-$ Add "dog" to the end of the line dog
+$Append a period to the end of each line
+Append a period to the end of each line
+Append a period to the end of each line
+Append a period to the end of each line
+
+$Add "dog" to the end of each line
+Add "dog" to the end of each line
+Add "dog" to the end of each line
+Add "dog" to the end of each line
 
 Par 5
 Insert "dog" at start of line $
-dog Insert "dog" at start of line $
+Insert "dog" at start of line
+Insert "dog" at start of line
+Insert "dog" at start of line
 
 Par 1
-Delete "$" and insert mode
-
-Par 1
-Delete line and enter insert mode
+Delete line and change to "I can't believe it's not butter"
+Delete line and change to "I can't believe it's not butter"
+Delete line and change to "I can't believe it's not butter"
+Delete line and change to "I can't believe it's not butter"
 
 Par 12
+#  Add spaces around '+'
 $ “var foo = "method("+argument1+","+argument2+")";”
-$ “var foo = "method(" + argument1 + "," + argument2 + ")";”
+“var foo = "method("+argument1+","+argument2+")";”
+“var foo = "method("+argument1+","+argument2+")";”
+“var foo = "method("+argument1+","+argument2+")";”
 
-Move forward and backward between $ and $
 
-Move forward and backward up to $ and $
+#  Add spaces around "argument" inside "( )"
+some_method(#);
+some_method(#);
+some_method(#);
 
-Move forward, repeat, backward, repeat between $ and $ and $
 
-$ Scan forward and backward for pattern pattern pattern pattern
+Move forward and backward between $ and $ and $ and $ and $ and $ and $
 
-Scan forward and backward for pattern pattern pattern pattern $
+Move forward and backward to $ and $ and $ and $ and $ and $ and $
+
+$ Scan forward and backward for pattern pattern pattern pattern pattern
+
+Scan forward and backward for pattern pattern pattern pattern pattern $
 
 Par 10
-Search for $"something" word under the cursor change the second and third occurrences to "beef" something mmm something
-Search for $"something" word under the cursor change the second and third occurrences to "beef" beef mmm beef
-Search for $"something" word under the cursor change the second and third occurrences to "beef" beef mmm beef
+Change every-other occurence of $"beef" to "chicken"
+chicken beef chicken beef chicken
+beef chicken beef chicken beef
+chicken beef chicken beef chicken
+beef chicken beef chicken beef
+chicken beef chicken beef chicken
 
 Par 13
-Delete all words from the end of this line.$
+Delete all words from the end of this line .$ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
