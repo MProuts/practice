@@ -1,24 +1,33 @@
 Par 7
-$Append a semicolon to each line
+$Append a semicolon to each line;
 Append a semicolon to each line
 Append a semicolon to each line
 Append a semicolon to each line
 
-$Append a period to the end of each line
+Insert "dog" at start of line $
+Insert "dog" at start of line
+Insert "dog" at start of line
+Insert "dog" at start of line
+
+$Append a period to the end of each line.
 Append a period to the end of each line
 Append a period to the end of each line
 Append a period to the end of each line
+
+Insert "cat" at start of line $
+Insert "cat" at start of line
+Insert "cat" at start of line
+Insert "cat" at start of line
 
 $Add "dog" to the end of each line
 Add "dog" to the end of each line
 Add "dog" to the end of each line
 Add "dog" to the end of each line
 
-Par 5
-Insert "dog" at start of line $
-Insert "dog" at start of line
-Insert "dog" at start of line
-Insert "dog" at start of line
+Insert "lion" at start of line $
+Insert "lion" at start of line
+Insert "lion" at start of line
+Insert "lion" at start of line
 
 Par 1
 Delete line and change to "I can't believe it's not butter"
