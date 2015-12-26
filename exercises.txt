@@ -89,3 +89,36 @@ End of this screen.
 
 Page up.
 Page down.
+
+{
+  # Forward to the next opening bracket.
+}
+
+{
+  # Repeat.
+}
+
+{
+  # Repeat.
+}
+
+{
+  # Backward to the previous opening bracket.
+}
+
+
+{
+  # Forward to the next closing bracket.
+}
+
+{
+  # Repeat.
+}
+
+{
+  # Repeat.
+}
+
+{
+  # Backward to the next closing bracket.
+}
