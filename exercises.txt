@@ -122,3 +122,9 @@ Page down.
 {
   # Backward to the next closing bracket.
 }
+
+Mark this line, move to top of the page, jump back.
+
+Hop to line 100, return to this line. $
+
+Hop to line 100, return to this character. $
