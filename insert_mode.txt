@@ -1,0 +1,10 @@
+Delete last characterr
+
+Delete last word word
+
+Delete entire line!
+
+From insert mode, pop into normal mode, center this line, and pop back
+and type "oh yeah!".$
+
+
