@@ -1,10 +1,11 @@
-Use caps-[ insteach of control-[
+Use caps-[ insteach of control-[.  Switch in and out of insert and
+normal mode several times.
 
-Delete last characterr
+Delete last character and type "moo"%
 
-Delete last word word
+Delete last word and type "moo" something
 
-Delete entire line!
+Delete entire line! and type "I can't believe it's not butter"
 
 From insert mode, pop into normal mode, center this line, and pop back
 and type "oh yeah!".$
