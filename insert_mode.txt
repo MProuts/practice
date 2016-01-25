@@ -1,3 +1,5 @@
+Use caps-[ insteach of control-[
+
 Delete last characterr
 
 Delete last word word
