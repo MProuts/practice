@@ -1,4 +1,4 @@
-Use caps-[ insteach of control-[.  Switch in and out of insert and
+Use caps-[ instead of control-[.  Switch in and out of insert and
 normal mode several times.
 
 Delete last character and type "moo"%
@@ -10,4 +10,19 @@ Delete entire line! and type "I can't believe it's not butter"
 From insert mode, pop into normal mode, center this line, and pop back
 and type "oh yeah!".$
 
+Yank the text "oh yeah" and paste it after typing your name.$
 
+Finish the following sentence: 6 chairs, each costing $35, totals $
+
+Look up the unicode code point for "禅"
+
+Insert type "Beginner's Mind" followed by this character.
+
+Insert the 1/2 character using a digraph.½
+
+Look up a fun new digraph.
+
+Type an English word in katakana.
+
+Combine this sentence with the following sentence. But use Replace
+mode.
