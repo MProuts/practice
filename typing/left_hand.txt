@@ -13,3 +13,21 @@ zshrc
 source
 
 exercises
+
+context
+
+text
+
+words
+
+decorator
+
+diagnostics
+
+secrets
+
+configurations
+
+carrierwave
+
+wave
