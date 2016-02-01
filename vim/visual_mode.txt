@@ -1,0 +1,27 @@
+Toggle in and out of character-wise visual mode.
+
+Toggle in and out of line-wise visual mode.
+
+Toggle in and out of block-wise visual mode.
+
+Start highlighting here $ move to end of line, then expand selection back to the beginning.
+
+Type the setting corresponding to the following statements:
+
+- width of a tab character
+
+- cause spaces to be used in place of tab characters
+
+- how many spaces do <bacspace> and <tab> produce in Insert Mode
+
+- how many spaces do `>` and `<` produce in Normal Mode
+
+Select this line using visual mode.  Re-select it again.
+
+Insert tabs appropriately for the following coffeescript:
+
+if (foo = bar)
+    if (i = like_chicken)
+two = 1 + 1
+four = two * 2
+# I can't think of what to write next...

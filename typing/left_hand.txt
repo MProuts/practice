@@ -12,3 +12,4 @@ zshrc
 
 source
 
+exercises
