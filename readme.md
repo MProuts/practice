@@ -1,3 +1,3 @@
 Welcome
 =======
-This repo contains practice exercises for learning vim.
+This repo contains practice exercises.
