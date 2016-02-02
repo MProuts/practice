@@ -22,9 +22,5 @@ Insert type "Beginner's Mind" followed by this character.
 
 Insert the 1/2 character using a digraph.½
 
-Look up a fun new digraph.
-
-Type an English word in katakana.
-
 Combine this sentence with the following sentence. But use Replace
 mode.
