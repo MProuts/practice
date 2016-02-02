@@ -31,3 +31,7 @@ configurations
 carrierwave
 
 wave
+
+left hand
+
+practice
