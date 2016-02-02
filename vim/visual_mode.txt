@@ -18,10 +18,18 @@ Type the setting corresponding to the following statements:
 
 Select this line using visual mode.  Re-select it again.
 
-Insert tabs appropriately for the following coffeescript:
+Change the text inside the tags to ALL CAPS.
+<a href="#">one</a>
+<a href="#">two</a>
+<a href="#">three</a>
 
-if (foo = bar)
-    if (i = like_chicken)
-two = 1 + 1
-four = two * 2
-# I can't think of what to write next...
+Add vertical and horizontal pipes to make this look like a table:
+
+Chapter              Page
+Normal mode          15
+Insert mode          31
+Visual mode          44
+
+append a semicolon
+to the end
+of each line
