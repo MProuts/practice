@@ -12,6 +12,8 @@ and type "oh yeah!".$
 
 Yank the text "oh yeah" and paste it after typing your name.$
 
+Delete the text "meow" and paste it after your name in Japanese.
+
 Finish the following sentence: 6 chairs, each costing $35, totals $
 
 Look up the unicode code point for "禅"
