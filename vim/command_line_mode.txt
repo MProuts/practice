@@ -40,12 +40,61 @@ between the html tags, but excluding the tags themselves s/select/meowww/g.
   <a href="#">select</a>
 </html>
 
-Copy line 35 to just below the current line
+Copy line 19 to just below the current line
 
-Copy the current line to just below line 44
+Copy the current line to just below line 19
 
 Duplicate the current line (similar to Normal mode yyp)
 
 Copy the current line to the end of the file
 
 Copy the visually selected lines to the start of the file
+
+Select the following three lines and move to the end of the file.
+
+meow meow meow meow meow meow meow meow meow meow meow meow meow meow
+meow meow meow meow meow meow meow meow meow meow meow meow meow meow
+meow meow meow meow meow meow meow meow meow meow meow meow meow meow
+
+Select the following three lines and repeat the last ex command.
+
+meow meow meow meow meow meow meow meow meow meow meow meow meow meow
+meow meow meow meow meow meow meow meow meow meow meow meow meow meow
+meow meow meow meow meow meow meow meow meow meow meow meow meow meow
+
+append a semicolon to the end of every line in the file
+
+View available colorschemes
+
+Get "chicken" into the search register position cursor over "beef" and
+substitute chicken for beef to the end of the file
+
+chicken chicken chicken chicken chicken chicken chicken chicken chicken
+chicken chicken chicken chicken chicken chicken chicken chicken chicken
+chicken chicken chicken chicken chicken chicken chicken chicken chicken
+
+get help on tabstop
+
+mode up and down through the command line mode history without using the
+arrow keys
+
+Enter command line window
+
+Enter command line search window
+
+From command line mode, switch to command line window
+
+Suspend this process, the bring it back into the foreground.
+
+Cat the current file in the command line.
+
+Read the contents of ls into this file.
+
+Sort the following table based on email address.
+
+first name,last name,email
+michael,prouty,mprouts@logcheck.com
+jimmy,pendry,jimmy@logcheck.com
+ben,ragheb,ben@logcheck.com
+
+enter range from here to eof and enter command line mode

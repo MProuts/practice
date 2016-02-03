@@ -1,3 +1,6 @@
+# Curve your fingers -- pinky and ring finger curve more to reach the
+# keyboard.
+
 master
 
 attachment
@@ -39,3 +42,5 @@ left hand
 practice
 
 select
+
+colorscheme
