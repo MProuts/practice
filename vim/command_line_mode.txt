@@ -40,3 +40,12 @@ between the html tags, but excluding the tags themselves s/select/meowww/g.
   <a href="#">select</a>
 </html>
 
+Copy line 35 to just below the current line
+
+Copy the current line to just below line 44
+
+Duplicate the current line (similar to Normal mode yyp)
+
+Copy the current line to the end of the file
+
+Copy the visually selected lines to the start of the file
