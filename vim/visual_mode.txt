@@ -12,7 +12,7 @@ Type the setting corresponding to the following statements:
 
 - cause spaces to be used in place of tab characters
 
-- how many spaces do <bacspace> and <tab> produce in Insert Mode
+- how many spaces do <backspace> and <tab> produce in Insert Mode
 
 - how many spaces do `>` and `<` produce in Normal Mode
 
@@ -33,3 +33,4 @@ Visual mode          44
 append a semicolon
 to the end
 of each line
+using visual-block
