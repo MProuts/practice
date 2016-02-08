@@ -44,3 +44,7 @@ practice
 select
 
 colorscheme
+
+.tmux.conf
+
+setw synchronize-panes on
