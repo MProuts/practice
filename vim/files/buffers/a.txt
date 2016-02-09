@@ -1,0 +1,9 @@
+List buffers
+
+Switch to the next buffer and back
+
+Switch between first and last buffers
+
+Jump to buffer 2
+
+Delete buffer 3

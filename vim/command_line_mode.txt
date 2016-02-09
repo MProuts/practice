@@ -48,7 +48,7 @@ Duplicate the current line (similar to Normal mode yyp)
 
 Copy the current line to the end of the file
 
-Copy the visually selected lines to the start of the file
+Move the visually selected lines to the start of the file
 
 Select the following three lines and move to the end of the file.
 
