@@ -7,8 +7,8 @@ Delete last word and type "moo" something
 
 Delete entire line! and type "I can't believe it's not butter"
 
-From insert mode, pop into normal mode, center this line, and pop back
-and type "oh yeah!".$
+From insert mode, pop into normal mode, move this line to the top of the
+page, pop back and type "oh yeah!".$
 
 Yank the text "oh yeah" and paste it after typing your name.$
 
