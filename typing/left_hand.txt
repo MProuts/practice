@@ -1,5 +1,5 @@
-# Curve your fingers -- pinky and ring finger curve more to reach the
-# keyboard.
+# Sit up straight, relax shoulders, look straight ahead and breathe.
+# Scroll so the text is at the top of the screen.
 
 master
 
@@ -50,3 +50,9 @@ colorscheme
 setw synchronize-panes on
 
 privilidges
+
+unarchive
+
+papertrail
+
+trail
