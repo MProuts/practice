@@ -48,3 +48,5 @@ colorscheme
 .tmux.conf
 
 setw synchronize-panes on
+
+privilidges
