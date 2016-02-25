@@ -1,0 +1,11 @@
+Open ./saving_and_opening/something.txt in a new tab.
+
+Now, open ./saving_and_opening/else.txt from the same tab without typing
+the complete path.
+
+Add ./saving_and_opening/ to the path.
+
+Find and open open.txt.
+
+Find and open open/open.txt.
+
