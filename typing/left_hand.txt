@@ -1,5 +1,7 @@
 # Sit up straight, relax shoulders, look straight ahead and breathe.
 # Scroll so the text is at the top of the screen.
+# Try to use the very tip of your finger -- almost feels like you're
+# curling the finger under
 
 master
 
