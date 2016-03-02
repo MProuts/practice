@@ -1,5 +1,6 @@
 # Sit up straight, relax shoulders, look straight ahead and breathe.
 # Scroll so the text is at the top of the screen.
+# Curve fingers a lot -- almost feel like you're using your fingernails
 
 master
 
