@@ -12,7 +12,7 @@ Split window horizontally
 
 Split window vertically
 
-Close everything but the active window
+Toggle on/off everything but the active window
 
 Maximize height of current window
 
@@ -28,7 +28,7 @@ Split window vertically and load something.txt
 
 Close everything but the active window
 
-Open a new tab and change its working directory
+Open a new tab and move its working directory back a directory
 
 Split horizontally
 
