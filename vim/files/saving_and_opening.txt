@@ -3,12 +3,6 @@ Open ./saving_and_opening/save.txt in a new tab.
 Now, open ./saving_and_opening/open.txt from the same tab without typing
 the complete path.
 
-Add ./saving_and_opening/ to the path.
-
-Find and open open.txt.
-
-Find and open directory/open.txt.
-
 In the current working directory...
 
 - Open file explorer.
@@ -37,3 +31,9 @@ Delete both file and directory.
 
 Open a new file at meow/meow.txt.  Make the directory, then save the
 file.  Delete both.
+
+Open sudo.txt.
+
+Add your name to sudo.txt.
+
+Write sudo.txt.
