@@ -2,6 +2,8 @@
 # Scroll so the text is at the top of the screen.
 # Try to use the very tip of your finger -- almost feels like you're
 # curling the finger under
+# Repeat pinky letter four times each for the first several words to
+# make sure your pinky is actually doing work
 
 master
 
