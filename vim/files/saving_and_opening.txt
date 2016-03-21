@@ -9,9 +9,9 @@ In the current working directory...
 
 - Quit explorer
 
-- Open the file explorer in a horizontal split.
+- Open the file explorer in a horizontal split.  Close window.
 
-- Open the file explorer in a vertical split.
+- Open the file explorer in a vertical split.  Close window.
 
 In the direcory of the current buffer...
 
@@ -19,11 +19,14 @@ In the direcory of the current buffer...
 
 - Quit explorer
 
-- Open the file explorer in a horizontal split.
+- Open the file explorer in a horizontal split.  Close window.
 
-- Open the file explorer in a vertical split.
+- Open the file explorer in a vertical split.  Close window.
 
-Create a new file called meow.txt inside a new directory called meow.
+Show the current buffer's status.
+
+Create a new file called meow.txt inside a new directory called meow
+using the file explorer.
 
 Rename both file and directory to mrow.
 
