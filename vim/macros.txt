@@ -1,0 +1,48 @@
+Record a macro that prepends 'var' and appends ';' to a line.
+Play it back once.
+Repeat.
+
+var foo = "bar"
+number = 1
+foods = [ "hamburgers", "fries", "colas" ]
+
+Add spaces around the pluses with a macro with a count.
+
+x = "("+a+","+b+","+c+","+d+","+e+")";
+
+Change the format to "1) One" in parallel“
+1. one
+2. two
+// break up the monotony
+3. three
+4. four
+
+Tack on a 'j' to the macro recorded above, and run in in series below.
+
+1. one
+2. two
+3. three
+4. four
+
+Put the contents or register q into the document, change '~' to vU, and yank it
+back into register q.  Use it on the following lines in series.
+
+1. one
+2. Two
+3. three
+4. Four
+
+Open all of the files in 'macros/foo/'.  Record a macro to wrap classes in
+module 'Foo'. Use argdo to repeat it.  (Make sure it doesn't get played twice
+over first file.)
+
+Append command to progress to next buffer to the macro you just recorded.  :ea! and run it again in series.
+
+Add consecutive numbering to this list using a macro and the expression register.
+
+one
+two
+three
+four
+
+
