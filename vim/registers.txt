@@ -3,12 +3,10 @@ Fix the errors:
 Onceu po na time
 
 - Yank "something", delete "foo", replace it with "something"
-- Yank "something, visually select "foo," replace it with "something"
+- Yank "something", visually select "foo", replace it with "something"
 NOTE: paste replaces unnamed register with selection
 - Yank "something", change foo, paste from unnamed register in insert mode
 NOTE: easier to gauge where insertion is going
-
-(foo, bar)
 
 Inspect the unnamed and yank registers.
 
