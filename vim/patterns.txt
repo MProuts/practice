@@ -1,0 +1,24 @@
+Turn off smart sensitivity
+
+Turn off case insensitivity, search for 'Foo'
+
+Turn on case insensitivity, search for 'Foo'
+
+Turn on smart sensitivity, search for 'Foo'
+
+Leave on smart sensitivity, search for 'foo'
+
+Override case insensitivity for a single search 'foo'
+
+Foo foo FOO
+
+Match the color codes using a regular expression
+
+{ color: #3c3c3c; }
+{ color: #0000EE; }
+{ color: #000; }
+
+Search for the verbatim text 'F.K.A. Twigs'
+
+F.K.A. Twigs
+FoKlAp Twigs
