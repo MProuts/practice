@@ -1,6 +1,4 @@
-In a new tab...
-
-open everything listed in the table_of_contents.txt
+open everything listed in the files/table_of_contents.txt
 
 buffers
 =======
@@ -19,7 +17,7 @@ Delete buffer 3
 
 args
 ====
-open everything that ends in .js within the javascripts directory
+open everything that ends in .js within the files/javascripts directory
 
 open everything within the javascripts directory
 
