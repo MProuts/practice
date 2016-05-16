@@ -34,3 +34,6 @@ append a semicolon
 to the end
 of each line
 using visual-block
+
+visually select this line and the following line
+and join them
