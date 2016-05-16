@@ -83,7 +83,7 @@ the next/previous paragraph. Jump to the start of the next/previous
 paragraph.  Jump to the start of the next/previous paragraph.  Jump to
 the start of the next/previous paragraph.
 
-Jump to insert_mode.txt.  Jump back.  Jump forward.  Jump back.
+Jump to 2_insert_mode.txt.  Jump back.  Jump forward.  Jump back.
 
 Jump to the definition of keyword.
 
@@ -97,8 +97,7 @@ again.
 Insert 'foo', leave insert mode, jump to top of page, now continue
 insert and type 'bar'
 
-Add .txt to suffixes and then open the command_line_mode file.
-
+Add .txt to suffixes and then open the 4_command_line_mode file.
 
 Turn text wrapping off/on.  Leave it on.
 
