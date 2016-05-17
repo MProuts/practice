@@ -22,3 +22,31 @@ Search for the verbatim text 'F.K.A. Twigs'
 
 F.K.A. Twigs
 FoKlAp Twigs
+
+Match repeated words.  Join the lines together.
+
+Once upon
+upon a time
+
+Swap both forms of my name to <LASTNAME>, <FIRSTNAME>
+
+Michael Prouty
+Mike Prouty
+
+Search for "the" using word boundaries
+
+The thesis
+
+Turn search highlighting on and off a few times
+
+Search for 'wizard' in 'The Wizard of Oz'
+
+Gandalf the Wizard
+
+The Wizard of Oz
+
+Match "foo" excluding the quote mark
+
+Match "http://vimdoc.net/search?q=/\\" by manually escaping special character
+
+Match "http://vimdoc.net/search?q=/\\".  Escape characters using escape() function.
