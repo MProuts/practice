@@ -2,7 +2,7 @@ Record a macro that prepends 'var' and appends ';' to a line.
 Play it back once.
 Repeat.
 
-var foo = "bar"
+foo = "bar"
 number = 1
 foods = [ "hamburgers", "fries", "colas" ]
 
