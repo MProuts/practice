@@ -1,0 +1,3 @@
+# From normal mode, delete the last word on this line including preceeding space (3 keystrokes).  Repeat.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore

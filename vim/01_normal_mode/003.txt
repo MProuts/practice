@@ -1,0 +1,7 @@
+# Delete line and enter insert mode (one keystroke), then
+#   - Replace it with "I can't believe it's not butter"
+#   - Repeat on subsequent lines
+
+Delete line and change to "I can't believe it's not butter"
+Delete line and change to "I can't believe it's not butter"
+Delete line and change to "I can't believe it's not butter"

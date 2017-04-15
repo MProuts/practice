@@ -1,0 +1,8 @@
+# Enter insert mode at the beginning of the line (one keystroke), then:
+#   - Add 'dog'
+#   - Repeat on subsequent lines
+
+Insert "dog" at start of line
+Insert "dog" at start of line
+Insert "dog" at start of line
+Insert "dog" at start of line

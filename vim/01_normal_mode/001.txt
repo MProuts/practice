@@ -1,0 +1,8 @@
+# Enter insert mode at the end of the line (one keystroke) then:
+#   - Add ";"
+#   - Repeat on the subsequent lines
+
+Append a semicolon to each line
+Append a semicolon to each line
+Append a semicolon to each line
+Append a semicolon to each line

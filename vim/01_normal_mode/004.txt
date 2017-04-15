@@ -1,0 +1,5 @@
+# Move forward to '+' (two keystrokes), replace it with ' + ' (4 keystrokes)
+#   - Repeat motion
+#   - Repeat command
+
+var foo = method("+argument1+","+argument2+");

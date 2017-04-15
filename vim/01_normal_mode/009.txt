@@ -1,0 +1,7 @@
+# Get "beef" into search register (one keystroke), replace every other occurence to "chicken"
+
+beef beef beef beef beef
+beef beef beef beef beef
+beef beef beef beef beef
+beef beef beef beef beef
+beef beef beef beef beef

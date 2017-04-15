@@ -1,0 +1,3 @@
+# Starting at the end of the line, move backward to the ends of each URL.
+
+http://google.com http://google.com http://google.com http://google.com

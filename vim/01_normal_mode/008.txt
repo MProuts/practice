@@ -1,0 +1,3 @@
+# Scan backward for "pattern", reverse
+
+pattern ----- pattern ----- pattern ----- pattern ----- pattern

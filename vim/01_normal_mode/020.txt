@@ -1,0 +1,17 @@
+# Move forward/backward between closing brackets.
+
+{
+  "foo": "bar"
+}
+
+{
+  "foo": "bar"
+}
+
+{
+  "foo": "bar"
+}
+
+{
+  "foo": "bar"
+}
