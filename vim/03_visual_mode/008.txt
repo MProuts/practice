@@ -1,0 +1,6 @@
+# Append a semicolon to the end of each line using visual-block
+
+Consequat libero eu erat. In.
+Nec, lacinia ac, arcu. Pellentesque.
+Morbi sapien nulla, volutpat a.
+Vehicula tellus enim eu neque.

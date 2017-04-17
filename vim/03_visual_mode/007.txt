@@ -1,0 +1,6 @@
+# Add vertical and horizontal pipes to make this look like a table:
+
+Chapter              Page
+Normal mode          15
+Insert mode          31
+Visual mode          44

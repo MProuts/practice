@@ -1,0 +1,3 @@
+# Use character-wise visual mode to change the first word to "Whomever"
+
+Whatever is selected, it will be grand.

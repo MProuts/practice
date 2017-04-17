@@ -1,0 +1,6 @@
+# Use block-wise visual mode to insert "I" at the beginning of each sentence
+
+would like a hat
+would like a cat
+would like a chat
+would like a luxurious flat

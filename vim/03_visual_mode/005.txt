@@ -1,0 +1,6 @@
+# Select the first line using visual mode.  Move to the second line.  Then
+# re-select the first line again.
+
+Suscipit arcu, in varius erat risus vel magna. Fusce nec ante.
+
+Massa. Cras et ligula vel quam tristique commodo. Sed est lectus.
