@@ -1,0 +1,1 @@
+# Insert the 1/2 character using a digraph.

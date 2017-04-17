@@ -1,0 +1,3 @@
+# From insert mode, delete the last word and replace it with "strawberries"
+
+Leslie likes almonds

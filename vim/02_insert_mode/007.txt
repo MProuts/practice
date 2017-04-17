@@ -1,0 +1,3 @@
+# Compute the following total using registers
+
+6 * 19 = ?

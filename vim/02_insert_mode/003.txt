@@ -1,0 +1,3 @@
+# From insert mode, delete the whole line and replace it with "I can't believe it's not butter"
+
+Amet, orci. Aliquam augue. In semper nisi nec libero. Cras magna.

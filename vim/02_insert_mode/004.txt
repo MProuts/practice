@@ -1,0 +1,4 @@
+# From insert mode at the end of this line, pop into normal mode, reposition document so that this line
+# is at the top of the screen, pop back and type "fish".
+
+Tommy likes 

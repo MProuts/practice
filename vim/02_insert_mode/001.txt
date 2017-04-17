@@ -1,0 +1,3 @@
+# From insert mode, delete last character and type replace it with "!"
+
+My name is Tim.
