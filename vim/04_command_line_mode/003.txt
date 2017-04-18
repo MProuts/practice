@@ -1,0 +1,3 @@
+# Yank "s/yank/delete/gc" and paste it into command-line mode
+
+s/yank/delete/gc

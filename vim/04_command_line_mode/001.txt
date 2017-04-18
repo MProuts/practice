@@ -1,0 +1,1 @@
+# In command line mode, type "one two three" then delete it back word by word

@@ -1,0 +1,3 @@
+# Delete "s/delete/meow/gc" and paste it into command-line mode
+
+s/delete/meow/gc

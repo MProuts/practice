@@ -1,0 +1,7 @@
+# Using a range between patterns, s/select/meowww/g between the html tags.
+<html>
+  <a href="#">select</a>
+  <a href="#">select</a>
+  <a href="#">select</a>
+  <a href="#">select</a>
+</html>

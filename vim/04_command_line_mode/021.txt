@@ -1,0 +1,6 @@
+# Get "chicken" into the search register position cursor over "beef" and
+substitute chicken for beef to the end of the file
+
+chicken chicken chicken chicken chicken chicken chicken chicken chicken
+chicken chicken chicken chicken chicken chicken chicken chicken chicken
+chicken chicken chicken chicken chicken chicken chicken chicken chicken
