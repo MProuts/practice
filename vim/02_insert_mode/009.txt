@@ -1,1 +1,1 @@
-# Insert the character corresponding to the unicode codepoint "2605"
+# Insert the character corresponding to the unicode codepoint "0001F646"
