@@ -1,31 +1,34 @@
-open everything listed in the files/table_of_contents.txt
+# List buffers
 
-buffers
-=======
-List buffers
+# Switch to the next buffer and back
 
-Switch to the next buffer and back
-
-Switch between buffer 3 and back several times (only enter command line
+# Switch between buffer 3 and back several times (only enter command line
 mode once)
 
-Switch between first and last buffers
+# Switch between first and last buffers
 
-Jump to buffer 2
+# Jump to buffer 2
 
-Delete buffer 3
+# Delete this buffer
 
 args
 ====
-open everything that ends in .js within the files/javascripts directory
+# Complete the following (read all instructions before starting):
+# - Change args list to everything that ends in .js within the files/javascripts directory
+# - Change args list to everything in this directory
+# - Jump to the Nth file in the args list
 
-open everything within the javascripts directory
+# Complete the following (read all instructions before starting):
+# - Change args list to everything in the files/javascripts directory
+# - Change args list to everything in this directory
+# - Jump to the Nth file in the args list
 
-open everything in javascripts directory and subdirectories
+# Complete the following (read all instructions before starting):
+# - Change args list to everything in files/javascripts directory AND subdirectories
+# - Change args list to everything in this directory
+# - Jump to the Nth file in the args list
 
-delete the last character in all lines in all files using argdo
-
-scroll through the buffers in the arguments list
+# Delete the last character in all lines in all files in files/javascripts using argdo
 
 saving
 ======
