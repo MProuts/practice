@@ -1,0 +1,7 @@
+Split window horizontally and load examples/javascripts/a.js
+
+Split window vertically and load examples/javascripts/b.js
+
+Close.
+
+Close.

@@ -1,0 +1,3 @@
+Split horizontally
+
+Move the current window into its own tab

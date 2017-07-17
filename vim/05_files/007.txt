@@ -1,0 +1,9 @@
+Split window horizontally
+
+Split window vertically
+
+Cycle between windows using arrow keys
+
+Close the active window
+
+Close the active window

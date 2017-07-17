@@ -1,0 +1,2 @@
+Open the file explorer in the directory of the current buffer in a vertical split
+

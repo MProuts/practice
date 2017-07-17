@@ -1,0 +1,2 @@
+examples/javascripts/a.js
+examples/javascripts/something.txt
