@@ -1,0 +1,1 @@
+Open the file explorer in a vertical split in the current working directory.

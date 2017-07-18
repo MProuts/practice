@@ -1,0 +1,13 @@
+Split window horizontally
+
+Split window vertically
+
+Toggle on/off everything but the active window
+
+Maximize height of current window
+
+Maximize width of the current window
+
+Equalize the width of all windows
+
+Close everything but the active window

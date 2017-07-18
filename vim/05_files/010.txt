@@ -1,0 +1,5 @@
+Open a new tab and move its working directory back a directory
+
+Switch back and forth between this tab and that tab.
+
+Close the new tab.

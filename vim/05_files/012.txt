@@ -1,0 +1,2 @@
+Open ./examples/javascripts/a.js.  Then, open ./examples/javascripts/b.js without typing
+the complete path.

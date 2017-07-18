@@ -1,0 +1,9 @@
+Mark this file.
+
+Open everything listed in the table_of_contents.txt
+
+Delete the last character in all lines in all files using argdo
+
+Scroll through the buffers in the arguments list
+
+Delete all buffers in the argument list

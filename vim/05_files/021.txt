@@ -1,0 +1,5 @@
+Open examples/sudo.txt.
+
+Add your name to sudo.txt.
+
+Write sudo.txt.
