@@ -1,0 +1,1 @@
+- Yank "something", delete "foo", replace it with "something"

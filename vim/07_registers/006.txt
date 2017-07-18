@@ -1,0 +1,10 @@
+Paste from registers:
+- The name of the current file
+
+- The name of the alternate file
+
+- The last inserted text
+
+- The last Ex command
+
+- The last search pattern

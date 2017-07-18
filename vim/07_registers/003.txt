@@ -1,0 +1,2 @@
+- Yank "something", visually select "foo", replace it with "something"
+NOTE: paste replaces unnamed register with selection
