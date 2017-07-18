@@ -1,0 +1,1 @@
+Open vimrc.after and set a global mark, V.  Jump back to it.

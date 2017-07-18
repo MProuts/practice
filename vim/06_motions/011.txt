@@ -1,0 +1,4 @@
+Visually select 'meowwy'
+
+Now, jump to the start of last visual selection
+Now, jump to the end of last visual selection

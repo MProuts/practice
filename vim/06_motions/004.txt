@@ -1,0 +1,3 @@
+Delete everything between "foo" and "bar" by searching in the sentence below:
+
+Foo, this is the clause I want to delete, bar.

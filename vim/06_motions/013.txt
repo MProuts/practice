@@ -1,0 +1,14 @@
+(The following rely on surround.vim being installed.)
+
+Change double quotes to single quotes.
+Change single quotes to span tags.
+Change tags back into double quotes.
+Remove the quotes.
+Add braces.
+Change braces to curly braces with a space.
+Add parenthesis around the entire line.
+Remove everything.
+Wrap in <em></em>
+Enter linewise visual mode, and wrap in <p class="example"></p>
+
+"Foo bar"

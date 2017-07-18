@@ -1,0 +1,3 @@
+Change the following into a standard array literal.
+
+something = %w{foo bar baz}

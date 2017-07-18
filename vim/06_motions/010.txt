@@ -1,0 +1,4 @@
+Yank 'foobar'
+
+Now, jump to the start of last change or yank.
+Now, jump to the end of last change or yank.

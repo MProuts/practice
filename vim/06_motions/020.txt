@@ -1,0 +1,5 @@
+Insert 'foo', leave insert mode, jump to top of page, now continue
+insert and type 'bar'
+
+Jump back to the location of the most recent change.  Jump forward
+again.

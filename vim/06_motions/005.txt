@@ -1,0 +1,14 @@
+Visually select:
+- Between {}, around {}
+- Between "", around ""
+- Between '', around ''
+- Between [], around []
+- Between <>, around <>
+- Between tags, around tags
+- Between ``, around ``
+
+var tpl = [
+  '<a href="{url}">{title}</a>'
+]
+
+`cat "foobar"`
