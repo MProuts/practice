@@ -1,1 +1,1 @@
-# Mode up and down through the command line mode history without using the arrow keys
+# Move up and down through the command line mode history without using the arrow keys
