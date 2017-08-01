@@ -1,0 +1,21 @@
+Change the format to "1) One" in parallel“
+1. one
+2. two
+// break up the monotony
+3. three
+4. four
+
+Tack on a 'j' to the macro recorded above, and run in in series below.
+
+1. one
+2. two
+3. three
+4. four
+
+Put the contents or register q into the document, change '~' to vU, and yank it
+back into register q.  Use it on the following lines in series.
+
+1. one
+2. Two
+3. three
+4. Four

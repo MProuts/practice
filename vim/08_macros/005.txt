@@ -1,0 +1,6 @@
+Add consecutive numbering to this list using a macro and the expression register.
+
+one
+two
+three
+four

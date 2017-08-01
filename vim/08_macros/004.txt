@@ -1,0 +1,5 @@
+Open all of the files in 'examples/macros'.  Record a macro to wrap classes in
+module 'Foo'. Use argdo to repeat it.  (Make sure it doesn't get played twice
+over first file.)
+
+Append command to progress to next buffer to the macro you just recorded.  :ea! and run it again in series.

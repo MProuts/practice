@@ -1,0 +1,3 @@
+Add spaces around the pluses with a macro with a count.
+
+x = "("+a+","+b+","+c+","+d+","+e+")";
