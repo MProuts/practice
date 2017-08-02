@@ -1,1 +1,1 @@
-Add .txt to suffixes and then open the 4_command_line_mode file.
+Add '.txt' to suffixes and then open the table_of_contents file.

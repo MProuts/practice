@@ -1,1 +1,1 @@
-Jump to 2_insert_mode.txt.  Jump back.  Jump forward.  Jump back.
+Jump to table_of_contents.txt.  Jump back.  Jump forward.  Jump back.
