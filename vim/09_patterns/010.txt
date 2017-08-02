@@ -1,0 +1,3 @@
+Match "http://vimdoc.net/search?q=/\\" by manually escaping special character
+
+Match "http://vimdoc.net/search?q=/\\".  Escape characters using escape() function.

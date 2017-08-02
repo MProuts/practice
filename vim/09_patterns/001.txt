@@ -1,0 +1,13 @@
+Turn off smart sensitivity
+
+Turn on case sensitivity, search for 'Foo'
+
+Turn on case insensitivity, search for 'Foo'
+
+Turn on smart sensitivity, search for 'Foo'
+
+Leave on smart sensitivity, search for 'foo'
+
+Make a single search case sensitive 'foo'
+
+Foo foo FOO

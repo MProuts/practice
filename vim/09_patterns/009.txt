@@ -1,0 +1,1 @@
+Match "foo" excluding the quote mark

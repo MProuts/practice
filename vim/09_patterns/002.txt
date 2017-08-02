@@ -1,0 +1,5 @@
+Match the color codes using a regular expression
+
+{ color: #3c3c3c; }
+{ color: #0000EE; }
+{ color: #000; }

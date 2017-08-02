@@ -1,0 +1,4 @@
+Match repeated words.  Join the lines together.
+
+Once upon
+upon a time
