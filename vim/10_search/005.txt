@@ -1,0 +1,4 @@
+search for 'poke', change to all caps in the following words
+(http://vimcasts.org/episodes/operating-on-search-matches-using-gn/)
+
+pokeMon pokeDex pokeFamily

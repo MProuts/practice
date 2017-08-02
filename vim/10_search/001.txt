@@ -1,0 +1,3 @@
+Turn off incremental search, turn it back on
+
+Turn off search highlighting, turn it back on
