@@ -1,0 +1,7 @@
+Enter command line mode with
+these three lines
+selected in a range.
+But not
+these two.
+
+http://vimgolf.com/challenges/54862fbb3f90ac0002904cf5

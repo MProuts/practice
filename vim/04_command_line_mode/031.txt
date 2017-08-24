@@ -1,0 +1,6 @@
+Visually select the following lines and save them to this file.
+One
+Two
+Three
+
+http://vimgolf.com/challenges/54862fbb3f90ac0002904cf5
