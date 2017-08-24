@@ -1,3 +1,5 @@
+Change owner of examples/sudo.txt to 'root.'
+
 Open examples/sudo.txt.
 
 Add your name to sudo.txt.
