@@ -1,4 +1,4 @@
-# Get "beef" into search register without work boundaries (one keystroke), replace every other occurence to "chicken"
+# Get "beef" into search register without word boundaries (one keystroke), replace every other occurence with "chicken"
 
 Lorembeef ipsumbeef dolorbeef sitbeef ametbeef
 consecteturbeef adipisicingbeef elitbeef
